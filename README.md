@@ -31,7 +31,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love practicing yoga
 
-</div>  
-
-   ![Snake animation](https://github.com/MarinaTaques/MarinaTaques/blob/output/github-contribution-grid-snake.svg)
-    </div>
+ 
