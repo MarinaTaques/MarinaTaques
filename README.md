@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python for data science
 - 🤔 I’m looking for help with git
 - 💬 Ask me about neuroscience
-- 📫 How to reach me: @nina_moyses on instagram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love practicing yoga
 
