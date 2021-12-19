@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Marina! 👋
 
-<!--
-**MarinaTaques/MarinaTaques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning python for data science
+- 🤔 I’m looking for help with git
+- 💬 Ask me about neuroscience
+- 📫 How to reach me: @nina_moyses on instagram
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love practicing yoga
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/MarinaTaques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinataques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinataques&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Marina-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Marina-Office" height="30" width="180" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+ <img align="right" alt="Marina-pic" height="150" style="border-radius:50px;"
+      src="https://share-cdn.picrew.me/shareImg/org/202112/338224_5N21mlMJ.png">
+                                                                                                                                                    
+</div>  
+  
+  ##
+  
+  <div> 
+  <a href="https://instagram.com/nina_moyses" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marinataques27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marina-t-moyses-97865a212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
