@@ -12,8 +12,8 @@
    ### Languages and tools: 
   <img align="center" alt="Marina-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Marina-Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
- <img align="right" alt="Marina-pic" height="150" style="border-radius:50px;"
-      src="https://share-cdn.picrew.me/shareImg/org/202112/338224_5N21mlMJ.png">
+ <img align="right" alt="Marina-octocat" "
+      src="https://o.remove.bg/downloads/dad0119d-a098-4a30-8f43-40f8027469cf/octocat.O-removebg-preview.png">
                                                                                                                                                     
 </div>  
   
