@@ -13,6 +13,8 @@
   <img align="center" alt="Marina-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Marina-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white        ">
   <img align="center" alt="Marina-Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img align="center" alt="Marina-Pandas" src="	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Marina-Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 
  
 </div>  
