@@ -37,7 +37,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love practicing yoga
 
- <img src="https://media-exp1.licdn.com/dms/image/C4E16AQE82QlJP7APvQ/profile-displaybackgroundimage-shrink_200_800/0/1624511684176?e=1645660800&v=beta&t=uTcLJnXTlK2YrcLuAZk4E5VCUEUvTlOQ-J7FdTi_-6s">
+
  
 
  ![](https://komarev.com/ghpvc/?username=MarinaTaques&color=lightgrey)
