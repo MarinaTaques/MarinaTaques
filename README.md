@@ -38,6 +38,6 @@
 - ⚡ Fun fact: I love practicing yoga
 
 
- 
+
 
  ![](https://komarev.com/ghpvc/?username=MarinaTaques&color=lightgrey)
